@@ -11,9 +11,9 @@ My watch faces and apps developed with BlueOS Studio.
 * **顺滑交互**：支持点击屏幕落子，**旋转表冠缩放棋盘，拖动屏幕移动棋盘**，完美适配手表小屏幕操作。
 
 ## 📱 界面预览
-![游戏界面](https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/5ac39bd3b9d457f6157f3ccc6ae8c3f220dbd3f8/3.webp)
-![教程](https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/5ac39bd3b9d457f6157f3ccc6ae8c3f220dbd3f8/2.webp)
-![主菜单](https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/5ac39bd3b9d457f6157f3ccc6ae8c3f220dbd3f8/1.webp)
+<img src="https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/main/1.webp" width="300" />
+<img src="https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/main/2.webp" width="300" />
+<img src="https://raw.githubusercontent.com/huihui1105/BlueOS-Watch/main/3.webp" width="300" />
 
 ## 🛠️ 开发技术栈
 * **开发环境**：BlueOS Studio
